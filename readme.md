@@ -1,2 +1,2 @@
 Desafio SOLID 
-Projeto na pasta ISP
+Projeto na pasta DIP
